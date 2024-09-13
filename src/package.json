@@ -1,0 +1,12 @@
+{
+	"name": "@beyond-js/md5",
+	"author": "BeyondJS",
+	"email": "hello@beyondjs.com",
+	"version": "0.0.1",
+	"license": "MIT",
+	"repository": "https://github.com/beyondjs/md5",
+	"exports": {
+		".": "./index.js"
+	},
+	"dependencies": {}
+}

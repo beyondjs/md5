@@ -47,4 +47,4 @@ for performance, such as:
 
 ## License
 
-MIT © [[BeyondJS](https://beyondjs)]
+MIT © [[BeyondJS](https://beyondjs.com)]
